@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Dhruvsinghjadon
-- 👀 I’m interested in                                                      
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋, I'm Dhruv Singh Jadon</h1>
+<img src="https://res.cloudinary.com/devpost/image/fetch/s--O8hWw83u--/c_limit,f_auto,fl_lossy,q_auto:eco,w_900/https://github.com/npentrel/octoclippy/blob/master/gifs/ears.gif%3Fraw%3Dtrue" width="300" height="200" align="right">
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -21,4 +19,7 @@
 Dhruvsinghjadon/Dhruvsinghjadon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![original](https://user-images.githubusercontent.com/75934644/126057188-515e537c-df46-41e6-bd08-e4bb8887413a.gif)
+<img src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif" width="500" height="400">
+
+
+
