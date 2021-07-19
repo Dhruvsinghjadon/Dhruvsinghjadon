@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Singh Jadon</h1>
-<img src="https://res.cloudinary.com/devpost/image/fetch/s--O8hWw83u--/c_limit,f_auto,fl_lossy,q_auto:eco,w_900/https://github.com/npentrel/octoclippy/blob/master/gifs/ears.gif%3Fraw%3Dtrue" width="300" height="200" align="right">
+<img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/456/275/datas/original.gif" width="300" height="200" align="right">
 
 
 
