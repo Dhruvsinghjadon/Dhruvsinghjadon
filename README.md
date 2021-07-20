@@ -1,7 +1,7 @@
 <hr>
-<img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="225" height="200"align="left">
+
 <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/456/275/datas/original.gif" width="400" height="300" align="right">
-<h2>Hi , I'm Dhruv Singh Jadon</h2>
+<h1 style="text-align:left;"> Hi , i'm Dhruv singh jadon </h1>
  <hr>
 <h3></h3>
 
