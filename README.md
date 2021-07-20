@@ -1,10 +1,12 @@
 <hr>
-<h1 align="center">Hi 👋, I'm Dhruv Singh Jadon</h1>
- <hr>
+<img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="225" height="200"align="left">
 <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/456/275/datas/original.gif" width="400" height="300" align="right">
+<h2>Hi , I'm Dhruv Singh Jadon</h2>
+ <hr>
+<h3></h3>
 
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dhruv-singh-jadon-698a9420a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhruv-singh-jadon-698a9420a/" height="40" width="50" /></a>
 <a href="https://www.codechef.com/users/dhruvsjadon" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="https://www.codechef.com/users/dhruvsjadon" height="50" width="50" /></a>
