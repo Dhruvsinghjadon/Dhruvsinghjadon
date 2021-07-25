@@ -22,7 +22,7 @@
 Dhruvsinghjadon/Dhruvsinghjadon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif" width="500" height="400">
+<img src="https://octodex.github.com/images/jetpacktocat.png" width="400" height="400">
 <hr>
 
 
