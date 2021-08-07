@@ -4,8 +4,10 @@
 <img src="https://user-images.githubusercontent.com/75934644/128589428-291f5acd-078d-42fe-b523-0ed8c1201e3e.gif" width="400" height="300" align="right">
 
 
-<h2 style="text-align:left;">  I'm Dhruv singh jadon </h2>
+<h2>  I'm Dhruv singh jadon </h2>
+
  <hr>
+ 
 <h3></h3>
 
 
