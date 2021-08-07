@@ -1,6 +1,6 @@
 
 <hr>
-<img src="https://user-images.githubusercontent.com/75934644/128589683-a6945f3d-03c1-4503-b2ea-38de02a4989b.gif" width="600" height="100" align="centre">
+<img src="https://user-images.githubusercontent.com/75934644/128589683-a6945f3d-03c1-4503-b2ea-38de02a4989b.gif" width="700" height="100" align="centre">
 <img src="https://user-images.githubusercontent.com/75934644/128589428-291f5acd-078d-42fe-b523-0ed8c1201e3e.gif" width="400" height="300" align="right">
 
 
