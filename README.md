@@ -1,7 +1,9 @@
 
+
+
 <hr>
 <img src="https://user-images.githubusercontent.com/75934644/128589683-a6945f3d-03c1-4503-b2ea-38de02a4989b.gif" width="700" height="120" align="centre">
-<img src="https://user-images.githubusercontent.com/75934644/128589428-291f5acd-078d-42fe-b523-0ed8c1201e3e.gif" width="400" height="300" align="right">
+<img src="https://user-images.githubusercontent.com/75934644/129136439-481b6912-4c54-4396-8fc9-8fdb6615f8e4.gif" width="450" height="300" align="right">
 
 
 <h1>  I'm Dhruv singh jadon  </h1>
@@ -27,8 +29,10 @@
 Dhruvsinghjadon/Dhruvsinghjadon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://octodex.github.com/images/jetpacktocat.png" width="400" height="400">
+<img src="https://user-images.githubusercontent.com/75934644/128589428-291f5acd-078d-42fe-b523-0ed8c1201e3e.gif" width="350" height="280">
 <hr>
+ 
+ 
 
 
 
