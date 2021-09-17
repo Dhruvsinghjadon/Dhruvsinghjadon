@@ -8,9 +8,6 @@
 
 <h1>  I'm Dhruv singh jadon  </h1>
 
- <hr>
- 
-<h3></h3>
 
 
 <h2 align="left"><strong>Connect with me:</strong><p align="left">
@@ -21,7 +18,7 @@
   <a href="mailto:dhruvsinghjadon102@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75934644/130006438-7259b61b-6575-4b99-898b-5ccb200ee309.png" height="30" width="60" /></a>
  
 </p>
- <hr>
+ 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://user-images.githubusercontent.com/75934644/131258818-16108e71-d3ab-4ec5-a98b-fa43a19d9489.png" alt="c" width="60" height="40"/> </a> <a href="https://sass-lang.com/" target="_blank">
