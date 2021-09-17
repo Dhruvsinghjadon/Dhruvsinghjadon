@@ -31,7 +31,7 @@
   <img src="https://www.numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" alt="c" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="c" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank">
     <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="c" width="80" height="40"/> </a> <a href="https://jupyter.org/" target="_blank">
-    <br> <img src="https://www.webhopers.com/wp-content/uploads/2021/05/MERN-Stack-Development-Company.png" alt="c" width="300" height="200"/> </a> <a href="https://jupyter.org/" target="_blank">
+    <br> 
 
    
  </a> </p>
