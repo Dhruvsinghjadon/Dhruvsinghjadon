@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/75934644/129136439-481b6912-4c54-4396-8fc9-8fdb6615f8e4.gif" width="300" height="180" align="right">
 
 
-<h1>  I'm Dhruv Singh Jadon&#128522 </h1>
+<h1>  I'm Dhruv Singh Jadon&#9996 </h1>
 <li>📌Developing and debugging Deep learning and Computer vision models sums up my daily work.</li>
 <li> 📚 Right now, I am completing Machine Learning Engineer Nanodegree from Udacity.</li>
 <li>&#127919  I thoroughly enjoy tackling problems pertaining to technology and coming up with novel ideas. I also believe in Kata - the Japanese ideology of thinking before acting which enables me to be able to focus on not only continuous improvement, but also innovation.</li>
