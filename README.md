@@ -7,9 +7,11 @@
 
 
 <h1>  I'm Dhruv Singh Jadon</h1>
-<li>📌Developing and debugging Deep learning and Computer vision models sums up my daily work.</li>
-<li> 📚 Right now, I am completing Machine Learning Engineer Nanodegree from Udacity.</li>
-<li>&#127919  I thoroughly enjoy tackling problems pertaining to technology and coming up with novel ideas. I also believe in Kata - the Japanese ideology of thinking before acting which enables me to be able to focus on not only continuous improvement, but also innovation.</li>
+📌Developing and debugging Deep learning and Computer vision models sums up my daily work.
+<br><br>
+ 📚 Right now, I am completing Machine Learning Engineer Nanodegree from Udacity.
+ <br><br>
+&#127919  I thoroughly enjoy tackling problems pertaining to technology and coming up with novel ideas. I also believe in Kata - the Japanese ideology of thinking before acting which enables me to be able to focus on not only continuous improvement, but also innovation.<br><br>
 <li>&#128200Working on projects which motivate core machine learning research in deep learning, probabilistic methods, approximate inference, decision-making under uncertainty.
 <h2 align="left"><strong>Connect with me &#129309:-</strong><p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dhruv-singh-jadon-698a9420a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhruv-singh-jadon-698a9420a/" height="35" width="35" /></a>
