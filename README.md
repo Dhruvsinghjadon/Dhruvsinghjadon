@@ -44,7 +44,7 @@
   
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dhruvsinghjadon)  
- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Dhruvsinghjadon)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dhruvsinghjadon&theme=neon-dark)](https://git.io/streak-stats)
 
 
  <hr>
