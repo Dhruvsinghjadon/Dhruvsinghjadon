@@ -1,5 +1,5 @@
 
-
+![Dhruv GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruvsinghjadon&theme=great-gatsby&show_icons=true)
 
 <hr>
 <img src="https://user-images.githubusercontent.com/75934644/128589683-a6945f3d-03c1-4503-b2ea-38de02a4989b.gif" width="600" height="100" align="centre">
