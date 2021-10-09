@@ -32,10 +32,13 @@
  </a> </p>
  <h2>Here's my Github Statistics&#128202:-  </h2>
 
-![Dhruv GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruvsinghjadon&theme=great-gatsby&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&layout=compact&theme=highcontrast)
+![Dhruv GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruvsinghjadon&theme=great-gatsby&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&layout=compact&theme=highcontrast)   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dhruvsinghjadon&theme=neon-dark)](https://git.io/streak-stats)
+ <img src="https://user-images.githubusercontent.com/75934644/136648091-bdbf2608-d953-4476-b297-23b28073f62d.gif" width="220" height="190">  
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dhruvsinghjadon&theme=react-dark)](https://github.com/Dhruvsinghjadon/github-readme-activity-graph)
 
 
+   
+   
 
 
