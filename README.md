@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dhruv-singh-jadon-698a9420a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhruv-singh-jadon-698a9420a/" height="35" width="35" /></a>
 <a href="https://www.codechef.com/users/dhruvsjadon" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="https://www.codechef.com/users/dhruvsjadon" height="30" width="30" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/dhruv_singh_jadon" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="https://codeforces.com/profile/dhruv_singh_jadon" height="30" width="30" /></a>
- <a href="https://www.kaggle.com" target="blank"><img align="center" src="https://banner2.cleanpng.com/20180704/yco/kisspng-kaggle-predictive-modelling-data-science-business-5b3c8fc356f806.4702207815306956193562.jpg" alt="https://www.kaggle.com/dhruvsinghjadon" height="35" width="80" /></a>
+ <a href="https://www.kaggle.com" target="blank"><img align="center" src="https://banner2.cleanpng.com/20180704/yco/kisspng-kaggle-predictive-modelling-data-science-business-5b3c8fc356f806.4702207815306956193562.jpg" alt="https://www.kaggle.com/" height="35" width="80" /></a>
   <a href="mailto:dhruvsinghjadon102@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75934644/130006438-7259b61b-6575-4b99-898b-5ccb200ee309.png" height="30" width="60" /></a>
 </p>
  <h2 align="left">Languages and Tools &#128187 :-</h2>
