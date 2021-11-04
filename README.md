@@ -5,7 +5,7 @@
 <h1>  I'm Dhruv Singh Jadon</h1>
 📌Developing and debugging Deep learning and Computer vision models sums up my daily work.
 <br><br>
- 📚 Right now, I am completing Machine Learning Engineer Nanodegree from Udacity.
+ 📚  I am currently working on Kaggle.
  <br><br>
 &#127919  I thoroughly enjoy tackling problems pertaining to technology and coming up with novel ideas. I also believe in Kata (型 or 形) - the Japanese ideology of thinking before acting which enables me to be able to focus on not only continuous improvement, but also innovation.<br><br>
 &#128200Working on projects which motivate core machine learning research in deep learning, probabilistic methods, approximate inference, decision-making under uncertainty.
