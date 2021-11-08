@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/75934644/129136439-481b6912-4c54-4396-8fc9-8fdb6615f8e4.gif" width="300" height="180" align="right">
 
 
-<h1> I'm Dhruv Singh Jadon  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>  I'm Dhruv Singh Jadon  </h1>
 <p align='center'>
 
 📌Developing and debugging Deep learning and Computer vision models sums up my daily work.
