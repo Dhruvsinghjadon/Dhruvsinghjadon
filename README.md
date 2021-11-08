@@ -40,7 +40,8 @@
    
  </a> </p>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
- <h2>Here's my Github Statistics&#128202:-  </h2>
+ <h2>
+Here's my Github Statistics<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">:-  </h2>
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
@@ -54,6 +55,8 @@
   <img src="https://metrics.lecoq.io/Dhruvsinghjadon?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto" />  
 
   <img src="https://activity-graph.herokuapp.com/graph?username=Dhruvsinghjadon&theme=react-dark)](https://github.com/Dhruvsinghjadon/github-readme-activity-graph)" alt="top-langs" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" />
+ 
 </p>
 
 
