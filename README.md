@@ -39,7 +39,7 @@
 
    
    
-![Dhruv GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruvsinghjadon&theme=great-gatsby&show_icons=true)![Metrics](https://metrics.lecoq.io/Dhruvsinghjadon?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dhruvsinghjadon&theme=neon-dark)](https://git.io/streak-stats)<img src="https://user-images.githubusercontent.com/75934644/136662579-7538bf0a-fcfb-48f2-917f-c827c413a816.gif" width="220" height="190">  
+![Dhruv GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruvsinghjadon&theme=great-gatsby&show_icons=true)![Metrics](https://metrics.lecoq.io/Dhruvsinghjadon?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dhruvsinghjadon&theme=neon-dark)](https://git.io/streak-stats)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dhruvsinghjadon&theme=react-dark)](https://github.com/Dhruvsinghjadon/github-readme-activity-graph)
 
 
