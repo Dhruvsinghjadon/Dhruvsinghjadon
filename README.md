@@ -10,7 +10,7 @@
  📚  I am currently working on Kaggle.
  <br><br>
 📌 I thoroughly enjoy tackling problems pertaining to technology and coming up with novel ideas. I also believe in Kata (型 or 形) - the Japanese ideology of thinking before acting which enables me to be able to focus on not only continuous improvement, but also innovation.<br><br>
-📌Working on projects which motivate core machine learning research in deep learning, probabilistic methods, approximate inference, decision-making under uncertainty.
+📌Working on projects which motivate core machine learning research in Deep learning, probabilistic methods, approximate inference, decision-making under uncertainty.
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dhruv-singh-jadon-698a9420a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhruv-singh-jadon-698a9420a/" height="35" width="35" /></a>
