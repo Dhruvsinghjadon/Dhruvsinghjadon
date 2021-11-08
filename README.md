@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/75934644/128589683-a6945f3d-03c1-4503-b2ea-38de02a4989b.gif" width="600" height="100" align="centre">
-<img src="https://user-images.githubusercontent.com/75934644/129136439-481b6912-4c54-4396-8fc9-8fdb6615f8e4.gif" width="300" height="180" align="right">
+<img src="https://user-images.githubusercontent.com/75934644/129136439-481b6912-4c54-4396-8fc9-8fdb6615f8e4.gif" width="330" height="200" align="right">
 
 
 <h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>  I'm Dhruv Singh Jadon  </h1>
