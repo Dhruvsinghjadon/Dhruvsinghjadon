@@ -11,7 +11,7 @@
  <br><br>
 📌 I thoroughly enjoy tackling problems pertaining to technology and coming up with novel ideas. I also believe in Kata (型 or 形) - the Japanese ideology of thinking before acting which enables me to be able to focus on not only continuous improvement, but also innovation.<br><br>
 📌Working on projects which motivate core machine learning research in Deep learning, probabilistic methods, approximate inference, decision-making under uncertainty.
- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ <a href="https://github.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dhruv-singh-jadon-698a9420a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhruv-singh-jadon-698a9420a/" height="35" width="35" /></a>
@@ -42,7 +42,7 @@
 
    
  </a> </p>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+  <a href="https://github.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  <h2>
 Here's my Github Statistics<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">:-  </h2>
 <table cellpadding="0">
@@ -61,6 +61,6 @@ Here's my Github Statistics<img src="https://media.giphy.com/media/iY8CRBdQXODJS
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" />
  
 </p>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://github.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
