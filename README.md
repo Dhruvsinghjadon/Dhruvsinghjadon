@@ -58,8 +58,9 @@ Here's my Github Statistics<img src="https://media.giphy.com/media/iY8CRBdQXODJS
 <p align="center">
   <img src="https://metrics.lecoq.io/Dhruvsinghjadon?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto" />  
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=Dhruvsinghjadon&theme=react-dark)](https://github.com/Dhruvsinghjadon/github-readme-activity-graph)" alt="top-langs" />
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" />
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dhruvsinghjadon&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
  
 </p>
 <a href="https://github.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
