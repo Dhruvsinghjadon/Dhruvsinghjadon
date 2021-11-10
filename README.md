@@ -54,12 +54,12 @@ Here's my Github Statistics<img src="https://media.giphy.com/media/iY8CRBdQXODJS
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Dhruvsinghjadon&theme=great-gatsby&show_icons=true"/></td>
     <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=Dhruvsinghjadon&&theme=great-gatsby)](https://git.io/streak-stats"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvsinghjadon&layout=compact&theme=github_dark"/></td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvsinghjadon&layout=compact&theme=github_dark" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhruvsinghjadon&&theme=dark&show_icons=true)](https://git.io/streak-stats" />  
 
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dhruvsinghjadon&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
