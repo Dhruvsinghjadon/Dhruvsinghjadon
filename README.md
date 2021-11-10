@@ -46,17 +46,18 @@
   <a href="https://github.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  <h2>
 Here's my Github Statistics<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">:-  </h2>
+
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Dhruvsinghjadon&theme=great-gatsby&show_icons=true"/></td>
     <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=Dhruvsinghjadon&theme=neon-dark)](https://git.io/streak-stats"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=Dhruvsinghjadon&&theme=great-gatsby)](https://git.io/streak-stats"/></td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Dhruvsinghjadon?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvsinghjadon&layout=compact&theme=great-gatsby" />  
 
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dhruvsinghjadon&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -64,5 +65,4 @@ Here's my Github Statistics<img src="https://media.giphy.com/media/iY8CRBdQXODJS
  
 </p>
 <a href="https://github.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 
