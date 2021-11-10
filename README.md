@@ -57,7 +57,7 @@ Here's my Github Statistics<img src="https://media.giphy.com/media/iY8CRBdQXODJS
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvsinghjadon&layout=compact&theme=great-gatsby" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvsinghjadon&layout=compact&theme=github_dark" />  
 
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dhruvsinghjadon&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
