@@ -61,7 +61,6 @@ Here's my Github Statistics<img src="https://media.giphy.com/media/iY8CRBdQXODJS
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhruvsinghjadon&&theme=dark&show_icons=true)](https://git.io/streak-stats" />  
 
- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dhruvsinghjadon&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
  
