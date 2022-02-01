@@ -7,7 +7,7 @@
 
 📌Developing and debugging Deep learning and Computer vision models sums up my daily work.
 <br><br>
- 📚  I am currently working on Kaggle.
+ 📚  My long-range product vision-"Uplifting the world with innovative technology solutions & strong empathetic relationships". I am highly inspired by John Bresina , a Computer Scientist at NASA..
  <br><br>
 📌 I thoroughly enjoy tackling problems pertaining to technology and coming up with novel ideas. I also believe in Kata (型 or 形) - the Japanese ideology of thinking before acting which enables me to be able to focus on not only continuous improvement, but also innovation.<br><br>
 📌Working on projects which motivate core machine learning research in Deep learning, probabilistic methods, approximate inference, decision-making under uncertainty.
