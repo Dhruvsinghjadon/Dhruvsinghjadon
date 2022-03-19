@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/75934644/128589683-a6945f3d-03c1-4503-b2ea-38de02a4989b.gif" width="700" height="100" align="centre">
-<img src="https://user-images.githubusercontent.com/75934644/153885368-91e4f226-17ac-45a4-86bc-1cd3dd20ab01.gif" width="330" height="200" align="right">
+<img src="https://user-images.githubusercontent.com/75934644/159134764-ede85dcb-60d6-4d62-8b75-bccf112d0fda.gif" width="330" height="200" align="right">
 
 
 <h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hi, I'm <a href="https://www.linkedin.com/in/dhruv-singh-jadon-698a9420a/" target="_blank">Dhruv Singh Jadon</a>  </h1>
@@ -68,6 +68,7 @@ Here's my Github Statistics<img src="https://media.giphy.com/media/iY8CRBdQXODJS
 <a href="https://github.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ![header_](https://user-images.githubusercontent.com/75934644/146783947-f6689f02-a7b8-4228-aea9-735ba8e1b605.png)
+
 
 
 
