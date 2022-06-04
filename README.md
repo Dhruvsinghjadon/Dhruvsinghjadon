@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/75934644/128589683-a6945f3d-03c1-4503-b2ea-38de02a4989b.gif" width="700" height="100" align="centre">
 
 
-<h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hi, I'm <a href="https://www.linkedin.com/in/dhruv-singh-jadon-698a9420a/" target="_blank">Dhruv Singh Jadon</a>  </h1>
+ # Hi, I'm <a href="https://www.linkedin.com/in/dhruv-singh-jadon-698a9420a/" target="_blank">Dhruv Singh Jadon</a>  </h1>
 <p align='center'>
 
 📌Developing and debugging Deep learning and Computer vision models sums up my daily work.
@@ -12,7 +12,7 @@
 📌Working on projects which motivate core machine learning research in Deep learning, probabilistic methods, approximate inference, decision-making under uncertainty.
  <a href="https://github.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+ # Connect with me 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dhruv-singh-jadon-698a9420a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhruv-singh-jadon-698a9420a/" height="35" width="35" /></a>
 <a href="https://www.codechef.com/users/dhruvsjadon" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="https://www.codechef.com/users/dhruvsjadon" height="50" width="50" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="https://codeforces.com/profile/dhruv_singh_jadon" height="45" width="50" /></a>
@@ -22,7 +22,7 @@
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/m-e-r-l-i-n/m-e-r-l-i-n/master/dependencies/topcoder.png" alt="https://codeforces.com/profile/dhruv_singh_jadon" height="50" width="80" /></a>
   <a href="mailto:dhruvsinghjadon102@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75934644/130006438-7259b61b-6575-4b99-898b-5ccb200ee309.png" height="30" width="60" /></a>
 
-</p><h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+ # Skills 
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -46,7 +46,7 @@
  </a> </p>
   <a href="https://github.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  <h2>
-Here's my Github Statistics<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">:-  </h2>
+# Here's my Github Statistics<:- 
 
 <table cellpadding="0">
   <tr style="padding: 0">
