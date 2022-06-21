@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/75934644/128589683-a6945f3d-03c1-4503-b2ea-38de02a4989b.gif" width="700" height="100" align="centre">
-
+<img src="https://user-images.githubusercontent.com/75934644/174792768-9f52eaf1-55e4-4f7b-a0b4-d841d039d2fa.png" width="250" height="250" align="right">
 
  # Hi, I'm <a href="https://www.linkedin.com/in/dhruv-singh-jadon-698a9420a/" target="_blank">Dhruv Singh Jadon</a>  </h1>
 <p align='center'>
@@ -11,7 +11,7 @@
 📌 I thoroughly enjoy tackling problems pertaining to technology and coming up with novel ideas. I also believe in Kata (型 or 形) - the Japanese ideology of thinking before acting which enables me to be able to focus on not only continuous improvement, but also innovation.<br><br>
 📌Working on projects which motivate core machine learning research in Deep learning, probabilistic methods, approximate inference, decision-making under uncertainty.
  <a href="https://github.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
+<img align="right" width=200px height=300px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  # Connect with me 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dhruv-singh-jadon-698a9420a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhruv-singh-jadon-698a9420a/" height="35" width="35" /></a>
 <a href="https://www.codechef.com/users/dhruvsjadon" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="https://www.codechef.com/users/dhruvsjadon" height="50" width="50" /></a>
@@ -69,7 +69,7 @@
 ![header_](https://user-images.githubusercontent.com/75934644/146783947-f6689f02-a7b8-4228-aea9-735ba8e1b605.png)
 
 
-<img align="right" width=200px height=300px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 
 
 
