@@ -67,6 +67,5 @@
 <a href="https://github.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ![header_](https://user-images.githubusercontent.com/75934644/146783947-f6689f02-a7b8-4228-aea9-735ba8e1b605.png)
-![](https://komarev.com/ghpvc/?username=Dhruvsinghjadon&color=green)
 
 
