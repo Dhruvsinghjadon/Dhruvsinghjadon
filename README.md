@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/75934644/128589683-a6945f3d-03c1-4503-b2ea-38de02a4989b.gif" width="700" height="100" align="centre">
 <img src="https://user-images.githubusercontent.com/75934644/174805929-04566210-7e82-4ce5-b3e1-cce8669c3ba1.png" width="300" height="300" align="right">
 
- # Hi, I'm <a href="https://www.linkedin.com/in/dhruv-singh-jadon-698a9420a/" target="_blank">Dhruv Singh Jadon</a>  </h1>
+ # Console.log(' Hi, I'm <a href="https://www.linkedin.com/in/dhruv-singh-jadon-698a9420a/" target="_blank">Dhruv Singh Jadon</a>')
 <p align='center'>
 
 📌Developing and debugging Deep learning and Computer vision models sums up my daily work.
