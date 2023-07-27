@@ -14,15 +14,7 @@
  <a href="https://github.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img align="right" width=200px height=300px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  # Connect with me 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhruv-singh-jadon-698a9420a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhruv-singh-jadon-698a9420a/" height="35" width="35" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhruv-singh-jadon-698a9420a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75934644/198894894-0d3a79a5-f358-4ec7-ab6b-941acdfa247b.png" alt="https://www.linkedin.com/in/dhruv-singh-jadon-698a9420a/" height="40" width="40" /></a>
-<a href="https://www.codechef.com" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="https://www.codechef.com/users/dhruvsjadon" height="50" width="50" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="https://codeforces.com/profile/dhruv_singh_jadon" height="45" width="50" /></a>
- <a href="https://www.kaggle.com" target="blank"><img align="center" src="https://banner2.cleanpng.com/20180704/yco/kisspng-kaggle-predictive-modelling-data-science-business-5b3c8fc356f806.4702207815306956193562.jpg" alt="https://www.kaggle.com/" height="45" width="95" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75934644/141178513-40afda3b-0688-436c-a7b5-1f5a38a43e56.png" alt="https://codeforces.com/profile/dhruv_singh_jadon" height="55" width="60" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75934644/141178913-5cd157f3-ac9c-432f-aff3-15b7a087bb8c.png" alt="https://codeforces.com/profile/dhruv_singh_jadon" height="55" width="60" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/m-e-r-l-i-n/m-e-r-l-i-n/master/dependencies/topcoder.png" alt="https://codeforces.com/profile/dhruv_singh_jadon" height="50" width="80" /></a>
-  <a href="mailto:dhruvsinghjadon102@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75934644/130006438-7259b61b-6575-4b99-898b-5ccb200ee309.png" height="30" width="60" /></a>
+
 
  # Skills 
 
